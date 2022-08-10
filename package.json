@@ -1,0 +1,17 @@
+{
+  "name": "kml-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-entities": "^2.3.3",
+    "htmlparser2": "^8.0.1",
+    "parse2-kmz": "^1.0.7"
+  },
+  "devDependencies": {}
+}
